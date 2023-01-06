@@ -17,15 +17,22 @@ DevOps를 알아보고 AWS의 기초를 알아보자.
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/1%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-devops-%EB%AC%B8%ED%99%94%EB%9E%80">1일차</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/2%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%9E%80">2일차</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/3%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-network-bandwidth%EB%9E%80">3일차</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/4%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">4일차</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/5%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">5일차</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/6%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">6일차</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/7%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">7일차</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/3%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-network-bandwidth%EB%9E%80">3일차[VPC]</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/4%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">4일차[NAT]</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/5%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">5일차[EC2]</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/6%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">6일차[S3]</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/1%EC%A3%BC%EC%B0%A8/7%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">7일차[아키텍처 분석]</a>
 
 ## 📡 2주차 Onboarding
 
 Docker라는 고래를 사냥해보자.
+
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/DevOps/DevOps%20-%20Onboarding/2%EC%A3%BC%EC%B0%A8/8%EC%9D%BC%EC%B0%A8%20%EC%98%A8%EB%B3%B4%EB%94%A9.md#-content">8일차[컨테이너란, 도커란]</a>
+- <a href="">9일차</a>
+- <a href="">10일차</a>
+- <a href="">11일차</a>
+- <a href="">12일차</a>
+- <a href="">13일차 ~ 14일차</a>
 
 ## 📡 3주차 Onboarding
 
