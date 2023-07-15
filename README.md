@@ -51,13 +51,20 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 #### 📝 Grammer
 
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/python%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4">문자열 관련 함수들</a>
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/python%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">리스트 관련 함수들</a>
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/python%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">딕셔너리 관련 함수들</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4">문자열 관련 함수</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">리스트 관련 함수</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">딕셔너리 관련 함수</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EC%A7%91%ED%95%A9%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">집합 관련 함수</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%60...%60.md#python%EC%97%90%EC%84%9C--">Python `...`이란?</a>
 
 #### Django
 
 #### Fast API
+
+- <a href="https://github.com/go-payhere/Initial_FastAPI#initial_fastapi">FastAPI란</a>
+- <a href="https://github.com/go-payhere/Initial_FastAPI">Initial FastAPI</a>
+
+#### Flask
 
 ## 📒 공부용
 
@@ -65,5 +72,15 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 - <a href = "https://github.com/ohyuchan123/TIL_V2/blob/master/Github/token/Personal%20Access%20Token/Github%20%ED%86%A0%ED%81%B0%20%EC%83%9D%EC%84%B1.md#github-%ED%86%A0%ED%81%B0-%EC%83%9D%EC%84%B1">Personal Access Token 생성</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Github/command/%5Bgit%5D%20%EC%9D%B4%EB%AF%B8%20commit%ED%95%9C%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md#git-%EC%9D%B4%EB%AF%B8-commit%ED%95%9C-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0">이미 commit한 메세지 수정하기</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Github/commit/%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%B0%8B%20%EB%A9%94%EC%84%B8%EC%A7%80.md#%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8-commit-%EB%A9%94%EC%84%B8%EC%A7%80">규칙적인 커밋 메세지</a>
+
+### HTTP
+
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/HTTP/HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md#http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C">상태 코드</a>
+
+### CS
+
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0.md#%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC">동기, 비동기</a>
+- <a href="">메타데이터</a>
 
 ## 💻 코드/풀이
