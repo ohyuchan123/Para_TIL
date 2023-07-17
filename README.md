@@ -66,6 +66,8 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 #### Flask
 
+### C
+
 ## 📒 공부용
 
 ### GitHub
@@ -82,5 +84,6 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0.md#%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC">동기, 비동기</a>
 - <a href="">메타데이터</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EB%8F%99%EC%A0%81%20%EC%A0%95%EC%A0%81.md#%EC%A0%95%EC%A0%81-%EC%9B%B9%EA%B3%BC-%EB%8F%99%EC%A0%81-%EC%9B%B9%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">정적, 동적</a>
 
 ## 💻 코드/풀이
