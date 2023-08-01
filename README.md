@@ -49,7 +49,7 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#python-%EC%9D%B4%EB%9E%80">Python 이란?</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/What%20you%20can%20do%20with%20python.md#what-you-can-do-with-python">Python으로 무엇을 할 수 있는가?</a>
 
-#### 📝 Grammer
+#### 📝 <a href="https://github.com/python-personal-project/Python-Grammer#python-grammer">Grammer</a>
 
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4">문자열 관련 함수</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">리스트 관련 함수</a>
