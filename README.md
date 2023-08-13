@@ -40,7 +40,9 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 > Python  
 > Kotlin  
 > C  
-> C++
+> C++  
+> Java  
+> JavaScript
 
 ### Python
 
@@ -59,14 +61,25 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 #### Django
 
+- <a href="">Django란?</a>
+- <a href="https://github.com/ohyuchan123/Jump-to-jango#jump-to-jango">Jump to Jango</a>
+- <a href="">Django restful API</a>
+
 #### Fast API
 
 - <a href="https://github.com/go-payhere/Initial_FastAPI#initial_fastapi">FastAPI란</a>
 - <a href="https://github.com/go-payhere/Initial_FastAPI">Initial FastAPI</a>
+- <a href="">A_bulletin_board(게시판 프로젝트)</a>
 
 #### Flask
 
 ### Kotlin
+
+---
+
+#### 📝 Grammer
+
+### Java
 
 ---
 
@@ -88,6 +101,12 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 #### 📝 Grammer
 
+### JS(JavaScript)
+
+---
+
+#### 📝 Grammer
+
 ## 📒 공부용
 
 ### ✏️ What did you study today
@@ -96,13 +115,15 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - <a href="">메타데이터</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EB%8F%99%EC%A0%81%20%EC%A0%95%EC%A0%81.md#%EC%A0%95%EC%A0%81-%EC%9B%B9%EA%B3%BC-%EB%8F%99%EC%A0%81-%EC%9B%B9%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">정적, 동적</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC--%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">프레임워크 & 라이브러리</a>
+- <a href="https://github.com/go-payhere/Initial_FastAPI/pull/4#issuecomment-1668154460">API란?</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/CORS.md#cors">CORS</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EC%9D%98%EC%A1%B4%EC%84%B1.md#-%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%B4%EB%9E%80">의존성</a>
 
 ### GitHub
 
 - <a href = "https://github.com/ohyuchan123/TIL_V2/blob/master/Github/token/Personal%20Access%20Token/Github%20%ED%86%A0%ED%81%B0%20%EC%83%9D%EC%84%B1.md#github-%ED%86%A0%ED%81%B0-%EC%83%9D%EC%84%B1">Personal Access Token 생성</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Github/command/%5Bgit%5D%20%EC%9D%B4%EB%AF%B8%20commit%ED%95%9C%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md#git-%EC%9D%B4%EB%AF%B8-commit%ED%95%9C-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0">이미 commit한 메세지 수정하기</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Github/commit/%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%B0%8B%20%EB%A9%94%EC%84%B8%EC%A7%80.md#%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8-commit-%EB%A9%94%EC%84%B8%EC%A7%80">규칙적인 커밋 메세지</a>
-- <a href="">커밋 취소</a>
 
 ### HTTP
 
