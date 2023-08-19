@@ -1,7 +1,7 @@
 # 🤔 TIL_V2
 
 그전에 작성하던 TIL을 보니깐 정리한 부분이나 정리 규칙이 정해져 있지 않아서 확인하기 복잡하다는 느낌이 들어서  
-새로 출발하자는 생각으로 만들었다.
+새로 출발하자는 생각으로 만들었습니다.
 
 ## ❓ TIL이란?
 
@@ -32,8 +32,12 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 ## 📓 로드맵
 
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/%EB%A1%9C%EB%93%9C%EB%A7%B5/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
+- <a href="">FastAPI 로드맵</a>
+- <a href="">Django 로드맵</a>
 
 ## 📑 코드(언어) 이론
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/What%20I%20learned%20while%20studying.md#-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EC%96%B8%EC%96%B4--%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EC%96%B8%EC%96%B4">컴파일 & 인터프리터</a>
 
 **목차**
 
@@ -63,13 +67,13 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 - <a href="">Django란?</a>
 - <a href="https://github.com/ohyuchan123/Jump-to-jango#jump-to-jango">Jump to Jango</a>
-- <a href="">Django restful API</a>
+- <a href="https://github.com/ohyuchan123/Django-restful-API#django-restful-api">Django restful API</a>
 
 #### Fast API
 
 - <a href="https://github.com/go-payhere/Initial_FastAPI#initial_fastapi">FastAPI란</a>
 - <a href="https://github.com/go-payhere/Initial_FastAPI">Initial FastAPI</a>
-- <a href="">A_bulletin_board(게시판 프로젝트)</a>
+- <a href="https://github.com/go-payhere/A_bulletin_board#a_bulletin_board">A_bulletin_board(게시판 프로젝트)</a>
 
 #### Flask
 
@@ -118,14 +122,15 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - <a href="https://github.com/go-payhere/Initial_FastAPI/pull/4#issuecomment-1668154460">API란?</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/CORS.md#cors">CORS</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EC%9D%98%EC%A1%B4%EC%84%B1.md#-%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%B4%EB%9E%80">의존성</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EB%A9%94%EC%84%9C%EB%93%9C.md#%EF%B8%8F-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%95%84%EC%88%98-%EC%9A%94%EC%86%8C-%EB%A9%94%EC%84%9C%EB%93%9Cmethod">메서드</a>
 
-### GitHub
+### 🐱 GitHub
 
 - <a href = "https://github.com/ohyuchan123/TIL_V2/blob/master/Github/token/Personal%20Access%20Token/Github%20%ED%86%A0%ED%81%B0%20%EC%83%9D%EC%84%B1.md#github-%ED%86%A0%ED%81%B0-%EC%83%9D%EC%84%B1">Personal Access Token 생성</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Github/command/%5Bgit%5D%20%EC%9D%B4%EB%AF%B8%20commit%ED%95%9C%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md#git-%EC%9D%B4%EB%AF%B8-commit%ED%95%9C-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0">이미 commit한 메세지 수정하기</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Github/commit/%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8%20%EC%BB%A4%EB%B0%8B%20%EB%A9%94%EC%84%B8%EC%A7%80.md#%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8-commit-%EB%A9%94%EC%84%B8%EC%A7%80">규칙적인 커밋 메세지</a>
 
-### HTTP
+### 📕 HTTP
 
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/HTTP/HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md#http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C">상태 코드</a>
 - <a href="">Request body & Response body</a>
