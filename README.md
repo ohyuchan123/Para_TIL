@@ -13,7 +13,6 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 ## 🗓️ TIL 규칙
 
 - 의미 없는 커밋은 하지 않는다.
-- 컴퓨터 시간을 바꾸어 커밋은 하지 않는다.
 - 아무리 바빠도 일일 커밋을 최대한 한다.
 - 공개 저장소에 커밋하는 내용을 기준으로 한다.
 - 주 5일 이상 포스팅(뭘 하지 않았으면 반성문 형식으로 앞으로 어떻게 공부할지 작성하기) "⛟ 반성문"
@@ -28,6 +27,8 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - "📒 공부용" 은 이론 위주 또는 코드(언어)와 관계없는 부분을 정리한다  
   예) 네트워크, cs 지식
 - 구분이 불분명한 부분은 "What did you study today" 정리한다
+- What did you study toady에 정리한 불분명한 부분이 구분할 수 있게 되면 구분을 하도록 하자 ‼️
+- 앞으로 책을 읽고 요약하는 글을 작성해보자
 
 ## 📓 로드맵
 
@@ -55,7 +56,7 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#python-%EC%9D%B4%EB%9E%80">Python 이란?</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/What%20you%20can%20do%20with%20python.md#what-you-can-do-with-python">Python으로 무엇을 할 수 있는가?</a>
 
-#### 📝 <a href="https://github.com/python-personal-project/Python-Grammer#python-grammer">Grammer</a>
+📝 <a href="https://velog.io/@ohyuchan123/series/Python-Grammer">Grammer</a>
 
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98%EB%93%A4">문자열 관련 함수</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">리스트 관련 함수</a>
@@ -99,6 +100,12 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 
 - <a href = "https://github.com/ohyuchan123/C-Language-sytax-guide">C-Language-Grammer</a>
 
+#### 📚 ReadBooks
+
+**전문가를 위한 C**
+
+- <a href=""></a>
+
 ### C ++
 
 ---
@@ -123,6 +130,7 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/CORS.md#cors">CORS</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EC%9D%98%EC%A1%B4%EC%84%B1.md#-%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%B4%EB%9E%80">의존성</a>
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/%EB%A9%94%EC%84%9C%EB%93%9C.md#%EF%B8%8F-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%95%84%EC%88%98-%EC%9A%94%EC%86%8C-%EB%A9%94%EC%84%9C%EB%93%9Cmethod">메서드</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/What%20did%20you%20study%20today/relationship.md#relationship%EC%9D%B4%EB%9E%80">관계(relationsip)</a>
 
 ### 🐱 GitHub
 
@@ -135,8 +143,14 @@ TIL의 방법은 GitHub에 커밋으로 기록을 남기는 방식과 개인 블
 - <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/HTTP/HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md#http-%EC%83%81%ED%83%9C-%EC%BD%94%EB%93%9C">상태 코드</a>
 - <a href="">Request body & Response body</a>
 
+### 💻 Network
+
+#### 📄 네트워크 기초
+
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%85%B8%EB%93%9C%20%26%20%EB%A7%81%ED%81%AC%20%26%20Cloud.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%ACnetwork-%EA%B8%B0%EC%B4%88">노드, 링크, 클라우드</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC%20%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84.md#-%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC-%EC%A7%80%EC%97%B0-%EC%8B%9C%EA%B0%84">처리량과 지연 시간</a>
+- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81">네트워크 토폴로지와 병목 현상</a>
+
 ## 💻 코드/풀이
 
-### Python-Project
-
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python-Interpretation/Avoding-Game.md">pygame-code(Avoding-Game)</a>
+## 📚 ReadBooks
