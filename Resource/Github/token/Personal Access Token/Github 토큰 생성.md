@@ -1,7 +1,8 @@
 # GitHub 토큰 생성
 
-![Alt text](img/77cffd6c710c59bbf5d5456f31e1a8df-1.gif)
-오늘은 GitHub 토큰에 대해서 알아볼까 한다. 여태까지 난 GitHub에 Git 자도 몰랐던 거였다. 이제라도 GitHub에 대해서 차근차근 알아보려고 한다. (열심히 하자!!)
+![Alt text](img/77cffd6c710c59bbf5d5456f31e1a8df-1.gif)  
+오늘은 GitHub 토큰에 대해서 알아볼까 한다. 여태까지 난 GitHub에 Git 자도 몰랐던 거였다.  
+이제라도 GitHub에 대해서 차근차근 알아보려고 한다. (열심히 하자!!)
 
 ### **Access Token 이란?**
 
