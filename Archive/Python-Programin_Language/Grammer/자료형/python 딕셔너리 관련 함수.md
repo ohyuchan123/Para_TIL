@@ -10,7 +10,7 @@
 “baseball”이라는 단어에 “야구”라는 뜻이 부합되듯이 딕셔너리는 Key와 Value를 한 쌍으로 가지는 자료형이다.  
 예컨대 Key가 “baseball”이라면 Value “야구”가 될 것이다.
 
-![Alt text](/python/Grammer/img/image.png)
+![Alt text](../img/image.png)
 
 딕셔너리는 리스트나 튜플처럼 순차적으로(sequential) 해당 요솟값을 구하지 않고  
 Key를 통해 Value를 얻는다. 이것이 바로 딕셔너리의 가장 큰 특징이다.  
