@@ -9,11 +9,11 @@
 
 ## 목차
 
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#%EC%9D%B8%EA%B0%84%EB%8B%A4%EC%9A%B4-%EC%96%B8%EC%96%B4">인간다운 언어</a>
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#%EC%89%AC%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%89%AC%EC%9A%B4-%EC%8A%B5%EB%93%9D">쉬운 문법 쉬운 습득</a>
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#%EB%AC%B4%EB%A3%8C">무료</a>
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#%EA%B0%84%EA%B2%B0">간결</a>
-- <a href="https://github.com/ohyuchan123/TIL_V2/blob/master/python/Python%20%EC%9D%B4%EB%9E%80%3F.md#%EA%B0%95%EB%A0%A5">강력</a>
+- 인간다운 언어
+- 쉬운 문법 쉬운 습득
+- 무료
+- 간결
+- 강력
 
 ## 파이썬의 특징
 
