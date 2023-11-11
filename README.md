@@ -5,7 +5,10 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 
 정리 방법은 아래와 같습니다.
 
-- Project : 목표와 데드라인이 명환한 것들 즉, 예시를 들면 (현재 진행중인 프로젝트, 문서 작성, )
+- Project : 목표와 데드라인이 명환한 것들 즉, 예시를 들면 (현재 진행중인 프로젝트, 문서 작성.. 등등)
+- Area : Area of Repository. 책임의 영역, 목표와 데드라인이 없지만 꾸준히 신경써야 할 것 들
+- Resouce : 자료나 관심있는 것을 주제별로 작성/모아둠
+- Archvie : 더이상 필요없는 노트 모음
 
 ## 💻 Back-end
 
@@ -54,7 +57,7 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 
 #### 📝 Grammer
 
-- <a href="">C-plus-plus-Language</a>
+- <a href="https://github.com/ohyuchan123/C_plus_plus_Language">C-plus-plus-Language</a>
 
 ## 📒 공부용
 
