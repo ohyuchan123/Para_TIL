@@ -14,7 +14,24 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
 
+### 🚄 Fastapi
+
+- <a href="https://velog.io/@ohyuchan123/FastAPI%EB%9E%80-z5iuxwbf">Fastapi란?</a>
+- <a href=""></a>
+
 ## 🚀 DevOps
+
+- <a href="https://github.com/ohyuchan123/Para_TIL/tree/master/Resource/DevOps#-devops%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%97%AC-%EC%98%AC%EB%A6%BD%EB%8B%88%EB%8B%A4">DevOps Onboarding</a>
+
+**AWS 시작으로 책을 구매하려고 할때**
+
+- 클라우드 서비스 책과 개발용 책을 구분해 사자
+- 이론 서적과 실습 서적을 구분해서 사자
+- 인프라 담당자는? 클라우드 서비스에 대해 나온 책 구매
+- 개발자는 ? 코딩 위주의 책 구매
+- 개발자를 위한 책은 개발관련 내용 위주이다.
+- 클라우드는 기초 몇 가지만 나온다
+- AWS 클라우드 환경에서 개발을 해야 하므로, AWS를 잘 알아야 개발이 쉽다
 
 ## 📑 Programming Language
 
@@ -41,6 +58,10 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EC%A7%91%ED%95%A9%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">집합 관련 함수</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%60...%60.md#python%EC%97%90%EC%84%9C--">Python `...`이란?</a>
 
+#### 📗 Read Books
+
+- <a href="https://github.com/ohyuchan123/Coding_Test">이것이 취업을 위한 코딩 테스트다 with 파이썬</a>
+
 ### C
 
 ---
@@ -50,6 +71,14 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 #### 📝 Grammer
 
 - <a href = "https://github.com/ohyuchan123/C-Language-sytax-guide">C-Language-Grammer</a>
+
+#### 📗 Read Books
+
+- <a href="">모던 C</a>
+
+**Project**
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/C_Socket_Project#-c%EC%96%B8%EC%96%B4-%EC%86%8C%EC%BC%93-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">소켓 프로젝트</a>
 
 ### C ++
 
@@ -103,14 +132,7 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B6%84%EB%A5%98">네트워크 분류</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D-%EB%AA%85%EB%A0%B9%EC%96%B4">네트워크 성능 분석 명령어</a>
 
-## 💻 코드/풀이
+#### 📗 Read Books
 
-이 코드 풀이는 코딩테스트 문제를 풀다가 이해가 되지 않아서 답을 보고 이해하였을 때
-왜 이렇게 작동되는지 작성한 곳입니다.
-
-## 📚 ReadBooks
-
-- <a href="">독하게 하는 C 프로그래밍</a>
 - <a href="">핵심 데이터 통신</a>
-
-### 개발자의 글쓰기
+- <a href="">IT 엔지니어를 위한 네트워크 입문</a>
