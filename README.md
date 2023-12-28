@@ -10,6 +10,22 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 - Resouce : 자료나 관심있는 것을 주제별로 작성/모아둠
 - Archvie : 더이상 필요없는 노트 모음
 
+# 💬 나에게 한 마디
+
+나 자신에게 이것만은 지켜줬으면 한다.
+
+1. 내 탓하기를 멈춘다.
+2. 원는 것을 아주 작은 행동으로 쪼갠다.
+3. 실수는 새로운 발견이다. 이를 발판으로 앞으로 나아간다.
+
+`Memento Mori : 죽음을 기억하라`
+`Carpe Diem : 현재를 즐겨라`
+`This Too will Pass : 이 또한 지나가리라`
+`All is Well : 모든 것은 잘 될 것이다.`
+`Amor Fati : 내 인생 만만세`
+
+**At Full Blast : 전심 전력을 다해서**
+
 ## 💻 Back-end
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
@@ -17,7 +33,6 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 ### 🚄 Fastapi
 
 - <a href="https://velog.io/@ohyuchan123/FastAPI%EB%9E%80-z5iuxwbf">Fastapi란?</a>
-- <a href=""></a>
 
 ## 🚀 DevOps
 
@@ -60,7 +75,7 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 
 #### 📗 Read Books
 
-- <a href="https://github.com/ohyuchan123/Coding_Test">이것이 취업을 위한 코딩 테스트다 with 파이썬</a>
+- <a href="">python 알고리즘 공부</a>
 
 ### C
 
@@ -75,10 +90,6 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 #### 📗 Read Books
 
 - <a href="">모던 C</a>
-
-**Project**
-
-- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/C_Socket_Project#-c%EC%96%B8%EC%96%B4-%EC%86%8C%EC%BC%93-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">소켓 프로젝트</a>
 
 ### C ++
 
