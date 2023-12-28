@@ -18,10 +18,10 @@ TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 �
 2. 원는 것을 아주 작은 행동으로 쪼갠다.
 3. 실수는 새로운 발견이다. 이를 발판으로 앞으로 나아간다.
 
-`Memento Mori : 죽음을 기억하라`
-`Carpe Diem : 현재를 즐겨라`
-`This Too will Pass : 이 또한 지나가리라`
-`All is Well : 모든 것은 잘 될 것이다.`
+`Memento Mori : 죽음을 기억하라`  
+`Carpe Diem : 현재를 즐겨라`  
+`This Too will Pass : 이 또한 지나가리라`  
+`All is Well : 모든 것은 잘 될 것이다.`  
 `Amor Fati : 내 인생 만만세`
 
 **At Full Blast : 전심 전력을 다해서**
