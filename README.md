@@ -1,38 +1,6 @@
-# 🤔 Para
-
-TIL을 정리하다 보면 정해진 정리 방법이 없고 점점 어디에 뭐가 있는지 확인하기가 어려워져 정리 방법을 찾던 중  
-**Para(Projcet, Area, Resource, Archive)** 라는 정리 방법을 알게 되어서 정리 하게 되었습니다.
-
-정리 방법은 아래와 같습니다.
-
-- Project : 목표와 데드라인이 명환한 것들 즉, 예시를 들면 (현재 진행중인 프로젝트, 문서 작성.. 등등)
-- Area : Area of Repository. 책임의 영역, 목표와 데드라인이 없지만 꾸준히 신경써야 할 것 들
-- Resouce : 자료나 관심있는 것을 주제별로 작성/모아둠
-- Archvie : 더이상 필요없는 노트 모음
-
-# 💬 나에게 한 마디
-
-나 자신에게 이것만은 지켜줬으면 한다.
-
-1. 내 탓하기를 멈춘다.
-2. 원는 것을 아주 작은 행동으로 쪼갠다.
-3. 실수는 새로운 발견이다. 이를 발판으로 앞으로 나아간다.
-
-`Memento Mori : 죽음을 기억하라`  
-`Carpe Diem : 현재를 즐겨라`  
-`This Too will Pass : 이 또한 지나가리라`  
-`All is Well : 모든 것은 잘 될 것이다.`  
-`Amor Fati : 내 인생 만만세`
-
-**At Full Blast : 전심 전력을 다해서**
-
 ## 💻 Back-end
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
-
-### 🚄 Fastapi
-
-- <a href="https://velog.io/@ohyuchan123/FastAPI%EB%9E%80-z5iuxwbf">Fastapi란?</a>
 
 ## 🚀 DevOps
 
