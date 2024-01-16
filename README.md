@@ -1,3 +1,8 @@
+# PARA_TIL
+
+이 레파지토리는 튜토리얼 처럼 처음 시작한 내용들을 작성하여 정리하고 있습니다.  
+입수 전에 준비 운동을 하듯이 깊은 개념에 들어가기 전 이거는 알아보고 가자라는 형식으로 작성하게 되었습니다.
+
 ## 💻 Back-end
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
@@ -41,9 +46,7 @@
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EC%A7%91%ED%95%A9%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">집합 관련 함수</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%60...%60.md#python%EC%97%90%EC%84%9C--">Python `...`이란?</a>
 
-#### 📗 Read Books
-
-- <a href="">python 알고리즘 공부</a>
+- <a href="https://github.com/ohyuchan123/Algorithms#algorithms">python 알고리즘 공부</a>
 
 ### C
 
@@ -54,10 +57,6 @@
 #### 📝 Grammer
 
 - <a href = "https://github.com/ohyuchan123/C-Language-sytax-guide">C-Language-Grammer</a>
-
-#### 📗 Read Books
-
-- <a href="">모던 C</a>
 
 ### C ++
 
@@ -110,8 +109,3 @@
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81">네트워크 토폴로지와 병목 현상</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B6%84%EB%A5%98">네트워크 분류</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D-%EB%AA%85%EB%A0%B9%EC%96%B4">네트워크 성능 분석 명령어</a>
-
-#### 📗 Read Books
-
-- <a href="">핵심 데이터 통신</a>
-- <a href="">IT 엔지니어를 위한 네트워크 입문</a>
