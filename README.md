@@ -7,16 +7,27 @@ Area를 통해 오늘 배운 TIL을 작성합니다. TIL이란 `Today I Learned`
 Resource를 통해 큰 포괄적인 개념의 자료들을 정리합니다.
 마지막으로 Archive를 통해 완료된 자료를 정리합니다.
 
+## 🤔 무엇을 하고싶은가요?
+
+첫 번째로 어떤 부분을 하고 싶은지 어떤 부분이 나에게 맞는지 확인하는게 좋습니다.  
+저는 개발부터 운영까지 하나의 통합된 프로세스로 묶어내는 마법사 같은 역할을 하는 DevOps 엔지니어가 되고 싶었습니다.
+
+![Alt text](image.png)
+
 ## 💻 Back-end
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/web%20%EC%A7%80%EC%8B%9D/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%B5%EC%8B%A0%20%EA%B8%B0%EC%B4%88.md#-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0-%EA%B8%B0%EC%B4%88">인터넷 네트워크 통신 기초</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/CORS.md#cors">CORS란?</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/web%20%EC%A7%80%EC%8B%9D/REST%20API%EB%9E%80%20REST%2C%20RESTful%EC%9D%B4%EB%9E%80.md#rest%EB%9E%80">REST API란, REST, RESTful</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/ORM%EC%9D%B4%EB%9E%80.md#-orm%EC%9D%B4%EB%9E%80">ORM이란</a>
+
+- <a href="https://github.com/ohyuchan123/Django-RoadMap">Django-RoadMap 장고의 모든 것</a>
 
 ## 🚀 DevOps
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/tree/master/Resource/DevOps#-devops%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80%EC%9D%84-%EC%9E%91%EC%84%B1%ED%95%98%EC%97%AC-%EC%98%AC%EB%A6%BD%EB%8B%88%EB%8B%A4">DevOps Onboarding</a>
+- <a href="https://github.com/ohyuchan123/DevOps-lab">DevOps Lab[DevOps 실습 모음]</a>
 
 **AWS 시작으로 책을 구매하려고 할때**
 
@@ -160,6 +171,9 @@ Itertools / Collection 모듈
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81">네트워크 토폴로지와 병목 현상</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B6%84%EB%A5%98">네트워크 분류</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D-%EB%AA%85%EB%A0%B9%EC%96%B4">네트워크 성능 분석 명령어</a>
+
+- <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0#-ubiquitous-%EC%8B%9C%EB%8C%80%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0">핵심 데이터 통신</a>
+- <a href="">IT 엔지니어를 위한 네트워크 입문</a>
 
 ### 📧 Linux
 
