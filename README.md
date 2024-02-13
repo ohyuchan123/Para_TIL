@@ -14,6 +14,20 @@ Resource를 통해 큰 포괄적인 개념의 자료들을 정리합니다.
 
 ![Alt text](image.png)
 
+## 🤔 그렇다면 어떻게 해야 될까?
+
+먼저 DevOps 엔지니어라는 것은 개발자를 서포트 해서 하나의 제품을 잘 만들 수 있는 자동화를 구축하고 문화를 만드는 엔지니어이기 때문에 **자동화** 에 대한 이해가 높아야 합니다.  
+그 다음 DevOps는 운영과 개발을 둘 다 왔다 갔다 하면서 컨트롤하기 때문에 **배포 환경** 과 **운영 환경** 을 알아야 합니다.
+
+1. AWS 주요 서비스 개념 파악 및 생성해보기
+2. Git을 통해 GitOps 실습 해보기
+3. Docker 및 Kubernates 사용해보기
+4. 배포 환경에 대해서 알아보기
+5. CI/CD 파이프라인 설정 및 운영 경험 해보기
+6. 인프라스트럭처 코드 (IaC)
+7. 로그 및 모니터링
+8. 보안
+
 ## 💻 Back-end
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EB%A0%A4%EB%A9%B4%3F.md#-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%A0%A4%EB%A9%B4">백엔드 개발자가 되려면?</a>
@@ -21,7 +35,6 @@ Resource를 통해 큰 포괄적인 개념의 자료들을 정리합니다.
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/CORS.md#cors">CORS란?</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Backend/web%20%EC%A7%80%EC%8B%9D/REST%20API%EB%9E%80%20REST%2C%20RESTful%EC%9D%B4%EB%9E%80.md#rest%EB%9E%80">REST API란, REST, RESTful</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/ORM%EC%9D%B4%EB%9E%80.md#-orm%EC%9D%B4%EB%9E%80">ORM이란</a>
-
 - <a href="https://github.com/ohyuchan123/Django-RoadMap">Django-RoadMap 장고의 모든 것</a>
 
 ## 🚀 DevOps
@@ -64,7 +77,6 @@ Resource를 통해 큰 포괄적인 개념의 자료들을 정리합니다.
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#-%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">딕셔너리 관련 함수</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%EC%9E%90%EB%A3%8C%ED%98%95/python%20%EC%A7%91%ED%95%A9%20%EA%B4%80%EB%A0%A8%20%ED%95%A8%EC%88%98.md#%EC%A7%91%ED%95%A9-%EC%9E%90%EB%A3%8C%ED%98%95-%EA%B4%80%EB%A0%A8-%ED%95%A8%EC%88%98">집합 관련 함수</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Archive/Python-Programin_Language/Grammer/%60...%60.md#python%EC%97%90%EC%84%9C--">Python `...`이란?</a>
-
 - <a href="https://github.com/ohyuchan123/Algorithms#algorithms">python 알고리즘 공부</a>
 
 **파이썬을 파이썬답게**
@@ -129,21 +141,6 @@ Itertools / Collection 모듈
 
 ## 📒 공부용
 
-### ✏️ What did you study today
-
----
-
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0.md#%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC">동기, 비동기</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0.md#metadata">메타데이터</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%8F%99%EC%A0%81%20%EC%A0%95%EC%A0%81.md#%EC%A0%95%EC%A0%81-%EC%9B%B9%EA%B3%BC-%EB%8F%99%EC%A0%81-%EC%9B%B9%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">정적, 동적</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC--%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">프레임워크 & 라이브러리</a>
-- <a href="https://github.com/go-payhere/Initial_FastAPI/pull/4#issuecomment-1668154460">API란?</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/CORS.md#cors">CORS</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EC%9D%98%EC%A1%B4%EC%84%B1.md#-%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%B4%EB%9E%80">의존성</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%A9%94%EC%84%9C%EB%93%9C.md#%EF%B8%8F-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%95%84%EC%88%98-%EC%9A%94%EC%86%8C-%EB%A9%94%EC%84%9C%EB%93%9Cmethod">메서드</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/relationship.md#relationship%EC%9D%B4%EB%9E%80">관계(relationsip)</a>
-- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80.md#%EA%B0%9D%EC%B1%84-%EC%A7%80%ED%96%A5object-oriented-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80">객체 지향 프로그래밍이란</a>
-
 ### 🐱 GitHub
 
 ---
@@ -171,10 +168,27 @@ Itertools / Collection 모듈
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81">네트워크 토폴로지와 병목 현상</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B6%84%EB%A5%98">네트워크 분류</a>
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D-%EB%AA%85%EB%A0%B9%EC%96%B4">네트워크 성능 분석 명령어</a>
-
 - <a href="https://github.com/ohyuchan123/LetsReadBooks/tree/master/%ED%95%B5%EC%8B%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%86%B5%EC%8B%A0#-ubiquitous-%EC%8B%9C%EB%8C%80%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%86%B5%EC%8B%A0">핵심 데이터 통신</a>
 - <a href="">IT 엔지니어를 위한 네트워크 입문</a>
 
 ### 📧 Linux
 
 - <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Resource/Linux/Linux%20%EB%AA%85%EB%A0%B9%EC%96%B4.md#%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC">리눅스 명령어</a>
+
+## 📚 TIL
+
+- <a href ="https://github.com/ohyuchan123/Para_TIL/tree/master/Area/TIL#-til-rule">TIL README</a>
+
+### ✏️ What did you study today
+
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%8F%99%EA%B8%B0%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0.md#%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC">동기, 비동기</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0.md#metadata">메타데이터</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%8F%99%EC%A0%81%20%EC%A0%95%EC%A0%81.md#%EC%A0%95%EC%A0%81-%EC%9B%B9%EA%B3%BC-%EB%8F%99%EC%A0%81-%EC%9B%B9%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">정적, 동적</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%26%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC--%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC">프레임워크 & 라이브러리</a>
+- <a href="https://github.com/go-payhere/Initial_FastAPI/pull/4#issuecomment-1668154460">API란?</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/CORS.md#cors">CORS</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EC%9D%98%EC%A1%B4%EC%84%B1.md#-%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%B4%EB%9E%80">의존성</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EB%A9%94%EC%84%9C%EB%93%9C.md#%EF%B8%8F-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%ED%95%84%EC%88%98-%EC%9A%94%EC%86%8C-%EB%A9%94%EC%84%9C%EB%93%9Cmethod">메서드</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/relationship.md#relationship%EC%9D%B4%EB%9E%80">관계(relationsip)</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80.md#%EA%B0%9D%EC%B1%84-%EC%A7%80%ED%96%A5object-oriented-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80">객체 지향 프로그래밍이란</a>
+- <a href="https://github.com/ohyuchan123/Para_TIL/blob/master/Area/What%20did%20you%20study%20today/ORM%EC%9D%B4%EB%9E%80.md#-orm%EC%9D%B4%EB%9E%80">ORM이란</a>
